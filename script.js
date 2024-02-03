@@ -1,4 +1,4 @@
-function firstNonRepeatedChar(str) {
+// function firstNonRepeatedChar(str) {
  // Write your code here
 	function firstNonRepeatedChar(str) {
     // Create a map to store the frequency of each character
